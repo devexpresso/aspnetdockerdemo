@@ -1,0 +1,12 @@
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\bin\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.deps.json
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\bin\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\bin\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.pdb
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.csprojAssemblyReference.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.csproj.CoreCompileInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.AssemblyInfoInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.AssemblyInfo.cs
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.pdb
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\bin\Debug\netstandard2.0\AspnetCoreDocker.Model.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\bin\Debug\netstandard2.0\AspnetCoreDocker.Model.pdb
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.DataLayer\obj\Debug\netstandard2.0\AspnetCoreDocker.DataLayer.csproj.CopyComplete

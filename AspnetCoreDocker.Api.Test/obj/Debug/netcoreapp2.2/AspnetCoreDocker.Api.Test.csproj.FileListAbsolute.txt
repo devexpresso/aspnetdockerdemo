@@ -1,0 +1,14 @@
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.deps.json
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.runtimeconfig.json
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.runtimeconfig.dev.json
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\bin\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.pdb
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.csprojAssemblyReference.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.csproj.CoreCompileInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.AssemblyInfoInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.AssemblyInfo.cs
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Api.Test\obj\Debug\netcoreapp2.2\AspnetCoreDocker.Api.Test.pdb

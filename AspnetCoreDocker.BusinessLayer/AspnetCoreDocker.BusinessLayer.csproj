@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>devexpresso</Company>
+    <Authors>devexpresso</Authors>
+    <PackageId>Devexpresso.AspnetCoreDocker.BusinessLayer</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspnetCoreDocker.DataLayer\AspnetCoreDocker.DataLayer.csproj" />
+    <ProjectReference Include="..\AspnetCoreDocker.Model\AspnetCoreDocker.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\bin\Debug\netstandard2.0\AspnetCoreDocker.Model.deps.json
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\bin\Debug\netstandard2.0\AspnetCoreDocker.Model.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\bin\Debug\netstandard2.0\AspnetCoreDocker.Model.pdb
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.csprojAssemblyReference.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.csproj.CoreCompileInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.AssemblyInfoInputs.cache
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.AssemblyInfo.cs
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.dll
+C:\devexpresso\AspnetCoreDockerDemo\AspnetCoreDocker.Model\obj\Debug\netstandard2.0\AspnetCoreDocker.Model.pdb
